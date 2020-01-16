@@ -1,5 +1,5 @@
 
-from discord.ext import command as ебаный_модуль_команд_для_даунов
+from discord.ext import commands as ебаный_модуль_команд_для_даунов
 import discord as ебаня_библиотека_для_далбаебов
 
 я_твой_рот_ебал = ебаный_модуль_команд_для_даунов.Bot(command_prefix= "яхуесос")
