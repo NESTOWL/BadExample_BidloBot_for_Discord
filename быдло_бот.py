@@ -19,4 +19,11 @@ async def хуета(хуета):
 async def ятвойротебал(хуета, хуесос_которого_надо_обозвать:ебаня_библиотека_для_далбаебов.Member):
 	await хуета.send(f'{хуесос_которого_надо_обозвать.mention} я твой рот ебал')
 
+@эта_ебаная_команда(пасс_контекст='да я далбаеб')
+async def идисюдатварь(хуета):
+	if хуета.author.voice.channel:
+		await хуета.author.voice.channel.connect()
+
+
+
 я_твой_рот_ебал.run('NjYwODk0ODI0MjUbMzU4MTEw.XfjgWA.554gJESNiUan1r0B2zE-r0dQGes')
